@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World! 👋
+
+- I'm a full-stack engineer with 11 years of industry experience
+- I'm currently learning Typescript, React, and Node.js
+- I'd love to collaborate on Web Development or Foundry VTT projects
+- Reach me at david720@gmail.com
+- Fun fact: I also create [Tabletop RPG Adventures](https://eyesforteeth.itch.io/)
 
 <!--
 **dharvison/dharvison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
